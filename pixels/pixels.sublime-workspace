@@ -1,0 +1,1059 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wor",
+				"wordlist\tstatement"
+			],
+			[
+				"asc",
+				"ascii_lowercase\tstatement"
+			],
+			[
+				"data",
+				"dataTransfer"
+			],
+			[
+				"get",
+				"getAttribute"
+			],
+			[
+				"blob",
+				"blobToFile"
+			],
+			[
+				"glob",
+				"global-app-bak"
+			],
+			[
+				"jav",
+				"javelin-frontend"
+			],
+			[
+				"mongo",
+				"mongodb-keyfile"
+			],
+			[
+				"F",
+				"F21952"
+			],
+			[
+				"BUILD",
+				"BUILD_DEFAULT"
+			],
+			[
+				"getVi",
+				"getViewModel"
+			],
+			[
+				"ms",
+				"ms2sec"
+			],
+			[
+				"pla",
+				"playback-toolbar-large"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"getM",
+				"getViewModel"
+			],
+			[
+				"def",
+				"defaults"
+			],
+			[
+				"ic",
+				"iconAlign"
+			],
+			[
+				"icon",
+				"iconCls"
+			],
+			[
+				"docker",
+				"docker-machine"
+			],
+			[
+				"x",
+				"x-http-method-override"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"fu",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "pixels.py",
+			"settings":
+			{
+				"buffer_size": 2424,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "color_test.py",
+			"settings":
+			{
+				"buffer_size": 270,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pixels_sensehat.py",
+			"settings":
+			{
+				"buffer_size": 2505,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "push_to_pi.sh",
+			"settings":
+			{
+				"buffer_size": 54,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "pixels.py                    100% 2424   490.7KB/s   00:00     \npixels_sensehat.py           100% 2505   392.2KB/s   00:00     \nF21952:pixels kaltepe$ sh push_to_pi.sh                        \npi@raspberrypi's password:                                     \nclear_pixels.py              100%   64    15.6KB/s   00:00     \ncolor_test.py                100%  262    97.8KB/s   00:00     \npixels.py                    100% 2424   549.6KB/s   00:00     \npixels_sensehat.py           100% 2505   412.4KB/s   00:00     \nF21952:pixels kaltepe$ sh push_to_pi.sh                        \npi@raspberrypi's password:                                     \nclear_pixels.py              100%   64    20.9KB/s   00:00     \ncolor_test.py                100%  262    67.1KB/s   00:00     \npixels.py                    100% 2424   458.0KB/s   00:00     \npixels_sensehat.py           100% 2505   617.6KB/s   00:00     \nF21952:pixels kaltepe$ sh push_to_pi.sh                        \npi@raspberrypi's password:                                     \nclear_pixels.py              100%   64    20.5KB/s   00:00     \ncolor_test.py                100%  262    71.6KB/s   00:00     \npixels.py                    100% 2424   613.9KB/s   00:00     \npixels_sensehat.py           100% 2505   603.9KB/s   00:00     \nF21952:pixels kaltepe$ sh push_to_pi.sh                        \npi@raspberrypi's password:                                     \nclear_pixels.py              100%   64    19.8KB/s   00:00     \ncolor_test.py                100%  263    84.2KB/s   00:00     \npixels.py                    100% 2424   304.2KB/s   00:00     \npixels_sensehat.py           100% 2505   456.2KB/s   00:00     \nF21952:pixels kaltepe$                                         \n",
+			"settings":
+			{
+				"buffer_size": 1728,
+				"line_ending": "Unix",
+				"name": "Terminal (bash)",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"file": "clear_pixels.py",
+			"settings":
+			{
+				"buffer_size": 64,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "packins",
+		"selected_items":
+		[
+			[
+				"packins",
+				"Package Control: Install Package"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				"term",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"color",
+				"Color Picker: Insert Color"
+			],
+			[
+				"ana",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"glu",
+				"Glue - Launch"
+			],
+			[
+				"termin",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"a",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"glue",
+				"Glue - Launch"
+			],
+			[
+				"termina",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"git",
+				"Package Control: Install Package"
+			],
+			[
+				"conver",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"anac",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"conver ",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"anaconda: form",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"linter",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"lint",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"preferences",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pip",
+				"Package Control: Install Package"
+			],
+			[
+				"python",
+				"Set Syntax: Python3"
+			],
+			[
+				"theme",
+				"Material Theme: Configuration"
+			],
+			[
+				"packrem",
+				"Package Control: Remove Package"
+			],
+			[
+				"format",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"materi",
+				"Material Theme: Extras"
+			],
+			[
+				"termi",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"incre",
+				"Increment Selection"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"packagecon",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Set Syntax: Textile"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"npm start",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read();",
+			"curl http://google.com",
+			"curl google.com",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/kaltepe/data/apps/python samples/pixels"
+	],
+	"file_history":
+	[
+		"/Users/kaltepe/data/apps/python samples/pixels/terminal.glue",
+		"/Users/kaltepe/data/apps/python samples/word_play/.editorconfig",
+		"/Users/kaltepe/data/apps/python samples/word_play/word_play.sublime-project",
+		"/Users/kaltepe/Library/Application Support/Sublime Text 3/Packages/User/pep8_autoformat.sublime-settings",
+		"/Users/kaltepe/data/apps/python samples/word_play/palindrome.py",
+		"/Users/kaltepe/data/apps/python samples/pixels.py",
+		"/Users/kaltepe/data/apps/python samples/hello_world.py",
+		"/Users/kaltepe/data/apps/python samples/scrabble.py",
+		"/Users/kaltepe/data/apps/python samples/word_play.py",
+		"/Users/kaltepe/data/apps/python samples/find_vowels.py",
+		"/Users/kaltepe/data/apps/python samples/palindrome.py",
+		"/Users/kaltepe/data/apps/python samples/.editorconfig",
+		"/Users/kaltepe/Library/Application Support/Sublime Text 3/Packages/AceJump/README.md",
+		"/Users/kaltepe/Library/Application Support/Sublime Text 3/Packages/AceJump/Default (OSX).sublime-keymap",
+		"/Users/kaltepe/Library/Application Support/Sublime Text 3/Packages/User/python3.sublime-build",
+		"/Users/kaltepe/data/javelin/manda-app/src/app/shared/mocks/mock-files-meta.ts",
+		"/Users/kaltepe/data/javelin/refresh_and_start.sh",
+		"/Users/kaltepe/Documents/scratch.json",
+		"/Users/kaltepe/Documents/onedrive/OneDrive - MERRILL CORPORATION/iam_login.js",
+		"/data/notes/javelin.txt",
+		"/Users/kaltepe/data/javelin/notes/training.txt",
+		"/Users/kaltepe/data/javelin/build.gradle",
+		"/Users/kaltepe/data/javelin/notes/javelin.txt",
+		"/Users/kaltepe/data/javelin/notes/git_notes.txt",
+		"/Users/kaltepe/Documents/jira_process.txt",
+		"/Users/kaltepe/Documents/onedrive/OneDrive - MERRILL CORPORATION/iam_post_auth.har",
+		"/Users/kaltepe/Documents/onedrive/OneDrive - MERRILL CORPORATION/iam_post.har",
+		"/Users/kaltepe/data/javelin/merrill-datasite/log.txt",
+		"/Users/kaltepe/Desktop/too-9.log",
+		"/Users/kaltepe/Desktop/too-8.log",
+		"/Users/kaltepe/data/javelin/notes/sales notes",
+		"/Users/kaltepe/data/javelin/notes/sencha extjs6 angular 2 showdown",
+		"/Users/kaltepe/data/javelin/notes/jenkins_notes.txt",
+		"/Users/kaltepe/data/javelin/notes/fea_OKRs.txt",
+		"/data/notes/TnC.txt",
+		"/data/docs for confluence/github_enterprise.md",
+		"/data/code/dashes/resources/FramesItems.json",
+		"/data/code/dashes/resources/Frames.json",
+		"/data/code/dashes/app/model/Base.js",
+		"/data/code/dashes/app/Application.js",
+		"/data/code/dashes/classic/sass/src/view/main/Main.scss",
+		"/data/code/dashes/app/model/Readme.md",
+		"/data/code/dashes/classic/src/view/main/Dash.js",
+		"/data/code/dashes/app.js",
+		"/data/code/dashes/.sencha/app/defaults.properties",
+		"/data/code/dashes/classic/src/view/main/List.js",
+		"/data/code/dashes/build/temp/development/Dashes/sass/Dashes-all.scss.tmp",
+		"/data/code/dashes/classic.json",
+		"/data/code/dashes/sass/var/all.scss",
+		"/data/code/dashes/ext/.sencha/package/defaults.properties",
+		"/data/code/dashes/modern/src/view/main/List.js",
+		"/data/code/dashes/app.json",
+		"/data/code/dashes/classic/src/view/main/Main.js",
+		"/data/code/dashes/modern/src/view/main/Main.js",
+		"/Users/kaltepe/Downloads/ds-prod-cms1-2_1461699104638/conf\\ds-prod-cms1-2\\transactions.xml",
+		"/data/tutorials/angular2-tour-of-heroes/app/app.component.css",
+		"/data/tutorials/angular2-tour-of-heroes/app/heroes.component.html",
+		"/data/tutorials/angular2-tour-of-heroes/app/heroes.component.ts",
+		"/data/tutorials/angular2-tour-of-heroes/app/heroes.component.css",
+		"/data/tutorials/angular2-tour-of-heroes/app/hero-detail.component.css",
+		"/data/tutorials/angular2-tour-of-heroes/app/dashboard.component.css",
+		"/data/tutorials/angular2-tour-of-heroes/app/app.component.js",
+		"/Users/kaltepe/Library/Application Support/Sublime Text 3/Packages/TypeScript/Preferences.sublime-settings",
+		"/data/tutorials/angular2-tour-of-heroes/app/main.ts",
+		"/data/tutorials/angular2-tour-of-heroes/tsconfig.json",
+		"/data/tutorials/angular2-tour-of-heroes/angular2-tour-of-heroes.sublime-project",
+		"/data/docs for confluence/Jenkins.md",
+		"/Users/kaltepe/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/data/notes/next_steps.txt",
+		"/Users/kaltepe/Library/Application Support/Sublime Text 2/Packages/User/Shell-Unix-Generic.sublime-settings",
+		"/Users/kaltepe/Documents/don.hackett_jenkins_conv.txt",
+		"/data/notes/brew cleanup notes.txt",
+		"/Users/kaltepe/Documents/uat_coreprops.json",
+		"/Users/kaltepe/Documents/uat_prev_core_props.json",
+		"/data/notes/wip.txt",
+		"/data/notes/perf notes.txt",
+		"/data/docs for confluence/ui-testing.textile",
+		"/data/tools/PDFG/software/documentProcessingProperties.xml",
+		"/data/tools/PDFG/software/propertiesPath.xml",
+		"/Users/kaltepe/Downloads/prod_example.txt",
+		"/Users/kaltepe/Downloads/local_client1.txt",
+		"/data/issues/prod/search/broken_decimal_search.txt",
+		"/Users/kaltepe/Downloads/user.har",
+		"/data/analytics/all_external_saved_searches.csv",
+		"/Users/kaltepe/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/kaltepe/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/kaltepe/Desktop/search_error_local.log",
+		"/data/thirdparty-code/detect-global/detect-global.js",
+		"/Users/kaltepe/Downloads/detect-global.js",
+		"/data/code/datasite-dev-repo/datasite-cms/target/datasite-cms-7.0.0-SNAPSHOT/META-INF/MANIFEST.MF",
+		"/data/issues/security/workflows/contentmeta-example.json",
+		"/data/issues/security/workflows/pendingsecurityreportget_payload.json",
+		"/data/issues/security/workflows/workflowget_payload.json",
+		"/data/code/extjs-pg/src/main/webapp/ExtendedPanelStandard.js",
+		"/data/code/extjs-pg/src/main/webapp/ExtendedPanelConstructor.js",
+		"/Users/kaltepe/Library/Preferences/IntelliJIdea14/idea.vmoptions",
+		"/Users/kaltepe/.jrebel/jrebel.properties",
+		"/Users/kaltepe/.jrebel/jrebel.prefs",
+		"/Users/kaltepe/Downloads/siesta-3.0.1-lite/Changes",
+		"/Users/kaltepe/Desktop/email_test.html",
+		"/data/code/datasite/datasite-ui/src/main/resources/siesta-3.0.0-lite/examples/3.application-tests/extjs-mvc/tests/sanity.t.js",
+		"/data/code/datasite/tools/apache-tomcat/conf/Catalina/localhost/datasite-ui.xml",
+		"/data/code/datasite/datasite-ui/target/datasite-ui-1.0.0-SNAPSHOT/test/index.html",
+		"/data/code/datasite/tools/apache-tomcat/conf/Catalina/localhost/ds.xml",
+		"/data/code/datasite-v75/pom.xml",
+		"/Users/kaltepe/reload_mail.sh",
+		"/data/code/datasite/datasite-cms/src/main/resources/Datasite Templates/templates/com/merrillcorp/datasite/template/types/ActivationRequiredImpl.eng",
+		"/data/tools/splunk_dsv7_local_dev_bundle/mc_all_dsv7_props/local/app.conf"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"raspberrypi",
+			"0,",
+			")\n",
+			"0,",
+			"0.",
+			"0",
+			"0,0,0,0,0,0,0,0",
+			"');\n",
+			"\"HTTPStatus\": (?!200)",
+			"\"HTTPStatus\": (?!100)",
+			"\"HTTPStatus\": (?!200)",
+			">,",
+			".*<",
+			",",
+			"app-",
+			"create",
+			"metadata",
+			"status",
+			".btn",
+			"button",
+			".button",
+			"css",
+			".css",
+			"\\w[\\s]+\\w",
+			"ppt",
+			"pptx",
+			"\"",
+			"type",
+			"register",
+			"post",
+			"201",
+			"$HOSTNAME",
+			"}\n",
+			"deactive",
+			"register",
+			"confirmPassword",
+			"registrationId",
+			"Development",
+			"^.*'(.*)'.*'(.*)'.*,$",
+			"^(.*)$",
+			"^types.push\\((.+)\\);$",
+			"^(.+),$",
+			"^(.+)$",
+			"Director",
+			" },",
+			"^(.+)$",
+			"^([.]+)$",
+			"^([.\\(\\)]+)$",
+			"^(.+)$",
+			"^([\\w\\-/()\\s]+(?:[\\w\\-/()\\s]*)*)$",
+			"([\\w\\-/()]+[\\w\\-/()]+)\\s",
+			"^([\\w\\-/()]+[\\w\\-/()]+)\\s$",
+			"^([\\w\\-/()\\s]*\\s*[\\w\\-/()]+)$",
+			"([\\w\\-/()]+\\s+[\\w\\-/()]+)\\s",
+			"([\\w\\s\\-/()]+)",
+			"(.*)",
+			"requiredItemsList",
+			"tosAccepted",
+			"requiredItemsList",
+			"handleRequiredLoginItems",
+			"removeRequiredItem",
+			"tosAccepted",
+			"(\\w+),",
+			"(?:\\w*)",
+			"(\\w*)",
+			"(\\w*),",
+			"register",
+			"register.controller.js",
+			"']",
+			"'",
+			"src:",
+			"xtype:",
+			"items:",
+			"\"url\":\\s\"(.*)\"",
+			"name",
+			"\"name\"",
+			"{\\s+\"id\": \\d+,",
+			"\"id\": \\d+,",
+			"ui:",
+			"1841",
+			"port",
+			"Dashes.view.main.List'",
+			"behave",
+			"pub",
+			"docker run --name jenkins-custom -p 8085:8080 -p 2222:22 -v ~/data/jenkins_home:/var/jenkins_home kaltepeter/jenkins:v2",
+			"i",
+			"depen",
+			",",
+			"search",
+			"sandbox",
+			"$PATH",
+			"SENCHA_SDK_TOOLS_2_0_0_BETA3",
+			"/Applications/SenchaSDKTools-2.0.0-beta3",
+			"/usr/local/bin/",
+			"cucumber-spring",
+			"junit:",
+			"junit",
+			"junit:",
+			"junit:junit",
+			"type",
+			"=%s",
+			"active",
+			"Texas Gulf",
+			"#",
+			"Texas Gulf",
+			"\\s\\{.*value\":\"(.*)\"\\}\\s",
+			"\\\\n",
+			"},",
+			"/(\\{.*\\}),/g",
+			"},",
+			"}",
+			".*\"value\":\"(.*)\"",
+			".*\"value\":\"(.*)\".*",
+			"canadian",
+			"arlean",
+			"\\{\\s*.*\\s*\"value\": \"(.*)\"\\s*\\},",
+			"value\": \"(.*)\"",
+			"459",
+			"contentsearch",
+			"mercurial",
+			"reind",
+			"title\": \"Z",
+			"reiner",
+			"(\\w)=(\\w)",
+			"\\w(=)\\w",
+			"\\w=\\w",
+			"=3D",
+			"root"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"initial_color,",
+			"0, ",
+			"",
+			" |",
+			"|",
+			"'",
+			"F21952",
+			"{ id: '$2', text: '$2' },",
+			"{ id: '1', text: '$1' },",
+			"$1,",
+			"types.push($1);",
+			"types.push($1)",
+			"{ id: '1', text: '$1' },",
+			"'$1',",
+			"\\1",
+			"\"\\1\",",
+			"\\1",
+			"'\\1',",
+			"'$1',",
+			"'\\1',",
+			"\"",
+			"\"src\":",
+			"\"xtype\":",
+			"\"items\":",
+			"items: [{ xtype: 'dash', src: '$1' }]",
+			"title",
+			"\"title\"",
+			"{",
+			"",
+			" ",
+			"$1\\n",
+			"$1",
+			"\\n ",
+			"}\\n",
+			"$1\\n",
+			"},\\n",
+			"\\n",
+			"$1\\n",
+			"$1",
+			"$1$2",
+			"="
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "pixels.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2424,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "color_test.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 270,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "pixels_sensehat.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2505,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								88,
+								38
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "push_to_pi.sh",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 54,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								23,
+								23
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1728,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1687,
+								1687
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_complete_commit_on_tab": false,
+							"caret_style": "blink",
+							"color_scheme": "Packages/TerminalView/TerminalView.hidden-tmTheme",
+							"draw_centered": false,
+							"draw_indent_guides": false,
+							"draw_white_space": "none",
+							"git_gutter_is_enabled": false,
+							"gutter": false,
+							"highlight_line": false,
+							"scroll_past_end": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"terminal_view": true,
+							"terminal_view_activate_args":
+							{
+								"cmd": "/bin/bash -l",
+								"cwd": "/Users/kaltepe/data/apps/python samples/pixels",
+								"keep_open": false,
+								"syntax": null,
+								"title": "Terminal (bash)"
+							},
+							"terminal_view_last_cursor_pos":
+							[
+								26,
+								23
+							],
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "clear_pixels.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 64,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								64,
+								64
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 159.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 289.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python 3/Python3.sublime-build",
+	"project": "pixels.sublime-project",
+	"replace":
+	{
+		"height": 114.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"frame",
+				"resources/Frames.json"
+			],
+			[
+				"frameitem",
+				"resources/FramesItems.json"
+			],
+			[
+				"dashallscss",
+				"build/temp/development/Dashes/sass/Dashes-all.scss.tmp"
+			],
+			[
+				"classi",
+				"classic.json"
+			],
+			[
+				"app.js",
+				"app.js"
+			],
+			[
+				"appcomts",
+				"app/app.component.ts"
+			],
+			[
+				"dacomts",
+				"app/dashboard.component.ts"
+			],
+			[
+				"https",
+				"webapp/httpserver.js"
+			],
+			[
+				"index.js",
+				"webapp/test/index.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 147.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
